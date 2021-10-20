@@ -1,0 +1,13 @@
+package Ran;
+
+import GitDemo.RandomNum;
+
+public class Rand {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 RandomNum randomNum1=RandomNum.getRandomNum();
+         randomNum1.userMessage();
+	}
+
+}

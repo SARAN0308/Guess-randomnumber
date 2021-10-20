@@ -1,0 +1,6 @@
+package Ran;
+public interface Random {
+	public void userMessage();
+	 public void  getRandomNum();
+	void  RandomNum();
+}
